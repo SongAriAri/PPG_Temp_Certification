@@ -6,7 +6,7 @@
 
 ### ResNet Encoder + Element-wise Sum Concat Fusion + Cross-Attention
 - 방대한 양의 데이터 처리를 위해 ResNet의 Encoder로 교체
-- Accuracy : 57.25%
+- Accuracy : 69.35%
 - (40 epoch)
 
 ### ResNet Encoder + Concat Fusion + Cross-Attention
